@@ -1,7 +1,12 @@
 # AllCheatSheet
 Cheat Sheets for programming
 
+## Shell
+[apt](https://blog.packagecloud.io/eng/2015/03/30/apt-cheat-sheet/)
+
 ## MongoDB
+[manual](https://docs.mongodb.com/manual/)
+
 ### Work with mongod
 ```
 sudo service mongod start/stop/restart
