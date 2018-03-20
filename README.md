@@ -34,3 +34,7 @@ To switch databases
 ```
 use <database>
 ```
+To show collections in current database
+```
+show collections
+```
